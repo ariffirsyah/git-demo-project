@@ -1,1 +1,1 @@
-console.log('photo')
+console.log('upload photo')
